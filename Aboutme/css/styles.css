@@ -2202,7 +2202,6 @@ textarea.form-control {
   -webkit-border-radius: 90px;
   bottom: 370px;
   right: 565px;
-  position: absolute;
 }
 
 .was-validated .form-control:valid, .form-control.is-valid {
